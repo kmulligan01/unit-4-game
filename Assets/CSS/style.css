@@ -1,0 +1,63 @@
+body {
+    display: block;
+    background-image: url(../Images/page.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+.header {
+    background: orange;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.maincontent {
+    background: tan;
+    color: green;
+    padding: 5px;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.computer-count {
+    float: left;
+    width: 20%;
+    background: green;
+    padding: 50px;
+    margin-right: 20px;
+    font-size: 30px;
+    text-align: left;
+    color: purple;
+    margin-bottom: 10px;
+}
+
+.wins-losses {
+    float: left;
+    background: teal;
+    width: 10%;
+    padding: 15px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: purple;
+}
+
+.img {
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+}
+
+#score {
+    float: left;
+    width: 20%;
+    background: green;
+    padding: 50px;
+    margin-right: 20px;
+    font-size: 30px;
+    text-align: left;
+    color: purple;
+    margin-bottom: 10px;
+}
